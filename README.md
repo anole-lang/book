@@ -1,2 +1,2 @@
 # book
-The Ice Programming Language
+The Anole Programming Language
